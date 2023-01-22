@@ -239,7 +239,7 @@
                     <div class="col-lg-2 col-md-4 col-6 welcome-image">
                         <div class="boxhny13">
                             <a href="#URL">
-                                <img src="src/assets/images/grid1.jpg" class="img-fluid" alt="" />
+                                <img src="../assets/images/grid1.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
                                     <h3 class="title">Product</h3>
                                 </div>
@@ -252,7 +252,7 @@
                     <div class="col-lg-2 col-md-4 col-6 welcome-image">
                         <div class="boxhny13">
                             <a href="#URL">
-                                <img src="src/assets/images/grid3.jpg" class="img-fluid" alt="" />
+                                <img src="../assets/images/grid3.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
                                     <h3 class="title">Product</h3>
                                 </div>
@@ -266,7 +266,7 @@
                     <div class="col-lg-2 col-md-4 col-6 welcome-image">
                         <div class="boxhny13">
                             <a href="#URL">
-                                <img src="src/assets/images/grid2.jpg" class="img-fluid" alt="" />
+                                <img src="../assets/images/grid2.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
                                     <h3 class="title">Product</h3>
                                 </div>
@@ -279,7 +279,7 @@
                     <div class="col-lg-2 col-md-4 col-6 welcome-image">
                         <div class="boxhny13">
                             <a href="#URL">
-                                <img src="src/assets/images/grid4.jpg" class="img-fluid" alt="" />
+                                <img src="../assets/images/grid4.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
                                     <h3 class="title">Product</h3>
                                 </div>
@@ -291,7 +291,7 @@
                     <div class="col-lg-2 col-md-4 col-6 welcome-image">
                         <div class="boxhny13">
                             <a href="#URL">
-                                <img src="src/assets/images/grid5.jpg" class="img-fluid" alt="" />
+                                <img src="../assets/images/grid5.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
                                     <h3 class="title">Product</h3>
                                 </div>
@@ -305,7 +305,7 @@
                     <div class="col-lg-2 col-md-4 col-6 welcome-image">
                         <div class="boxhny13">
                             <a href="#URL">
-                                <img src="src/assets/images/grid6.jpg" class="img-fluid" alt="" />
+                                <img src="../assets/images/grid6.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
                                     <h3 class="title">Product</h3>
                                 </div>
@@ -337,7 +337,7 @@
                         </a>
                     </div>
                     <div class="photo-6-inf-left col-lg-6">
-                        <img src="src/assets/images/1.jpg" class="img-fluid" alt="">
+                        <img src="../assets/images/1.jpg" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
@@ -393,8 +393,8 @@
                         <div class="product-grid2 transmitv">
                             <div class="product-image2">
                                 <a href="#">
-                                    <img class="pic-1 img-fluid" src="src/assets/images/shop-1.jpg">
-                                    <img class="pic-2 img-fluid" src="src/assets/images/shop-11.jpg">
+                                    <img class="pic-1 img-fluid" src="../assets/images/shop-1.jpg">
+                                    <img class="pic-2 img-fluid" src="../assets/images/shop-11.jpg">
                                 </a>
                                 <ul class="social">
                                     <li><a href="#" data-tip="Quick View"><span class="fa fa-eye"></span></a></li>
@@ -424,8 +424,8 @@
                         <div class="product-grid2">
                             <div class="product-image2">
                                 <a href="#">
-                                    <img class="pic-1 img-fluid" src="src/assets/images/shop-2.jpg">
-                                    <img class="pic-2 img-fluid" src="src/assets/images/shop-22.jpg">
+                                    <img class="pic-1 img-fluid" src="../assets/images/shop-2.jpg">
+                                    <img class="pic-2 img-fluid" src="../assets/images/shop-22.jpg">
                                 </a>
                                 <ul class="social">
                                     <li><a href="#" data-tip="Quick View"><span class="fa fa-eye"></span></a></li>
@@ -456,8 +456,8 @@
                         <div class="product-grid2">
                             <div class="product-image2">
                                 <a href="#">
-                                    <img class="pic-1 img-fluid" src="src/assets/images/shop-3.jpg">
-                                    <img class="pic-2 img-fluid" src="src/assets/images/shop-33.jpg">
+                                    <img class="pic-1 img-fluid" src="../assets/images/shop-3.jpg">
+                                    <img class="pic-2 img-fluid" src="../assets/images/shop-33.jpg">
                                 </a>
                                 <ul class="social">
                                     <li><a href="#" data-tip="Quick View"><span class="fa fa-eye"></span></a></li>
@@ -488,8 +488,8 @@
                         <div class="product-grid2">
                             <div class="product-image2">
                                 <a href="#">
-                                    <img class="pic-1 img-fluid" src="src/assets/images/shop-4.jpg">
-                                    <img class="pic-2 img-fluid" src="src/assets/images/shop-44.jpg">
+                                    <img class="pic-1 img-fluid" src="../assets/images/shop-4.jpg">
+                                    <img class="pic-2 img-fluid" src="../assets/images/shop-44.jpg">
                                 </a>
                                 <ul class="social">
                                     <li><a href="#" data-tip="Quick View"><span class="fa fa-eye"></span></a></li>
@@ -520,8 +520,8 @@
                         <div class="product-grid2">
                             <div class="product-image2">
                                 <a href="#">
-                                    <img class="pic-1 img-fluid" src="src/assets/images/shop-5.jpg">
-                                    <img class="pic-2 img-fluid" src="src/assets/images/shop-55.jpg">
+                                    <img class="pic-1 img-fluid" src="../assets/images/shop-5.jpg">
+                                    <img class="pic-2 img-fluid" src="../assets/images/shop-55.jpg">
                                 </a>
                                 <ul class="social">
                                     <li><a href="#" data-tip="Quick View"><span class="fa fa-eye"></span></a></li>
@@ -552,8 +552,8 @@
                         <div class="product-grid2">
                             <div class="product-image2">
                                 <a href="#">
-                                    <img class="pic-1 img-fluid" src="src/assets/images/shop-6.jpg">
-                                    <img class="pic-2 img-fluid" src="src/assets/images/shop-66.jpg">
+                                    <img class="pic-1 img-fluid" src="../assets/images/shop-6.jpg">
+                                    <img class="pic-2 img-fluid" src="../assets/images/shop-66.jpg">
                                 </a>
                                 <ul class="social">
                                     <li><a href="#" data-tip="Quick View"><span class="fa fa-eye"></span></a></li>
@@ -584,8 +584,8 @@
                         <div class="product-grid2">
                             <div class="product-image2">
                                 <a href="#">
-                                    <img class="pic-1 img-fluid" src="src/assets/images/shop-7.jpg">
-                                    <img class="pic-2 img-fluid" src="src/assets/images/shop-77.jpg">
+                                    <img class="pic-1 img-fluid" src="../assets/images/shop-7.jpg">
+                                    <img class="pic-2 img-fluid" src="../assets/images/shop-77.jpg">
                                 </a>
                                 <ul class="social">
                                     <li><a href="#" data-tip="Quick View"><span class="fa fa-eye"></span></a></li>
@@ -616,8 +616,8 @@
                         <div class="product-grid2">
                             <div class="product-image2">
                                 <a href="#">
-                                    <img class="pic-1 img-fluid" src="src/assets/images/shop-8.jpg">
-                                    <img class="pic-2 img-fluid" src="src/assets/images/shop-88.jpg">
+                                    <img class="pic-1 img-fluid" src="../assets/images/shop-8.jpg">
+                                    <img class="pic-2 img-fluid" src="../assets/images/shop-88.jpg">
                                 </a>
                                 <ul class="social">
                                     <li><a href="#" data-tip="Quick View"><span class="fa fa-eye"></span></a></li>
@@ -688,7 +688,7 @@
                     <div class="col-lg-3 col-md-6 grids5-info column-img" id="zoomIn">
                         <a href="#">
                             <figure>
-                                <img class="img-fluid" src="src/assets/images/bg1.jpg" alt="blog-image">
+                                <img class="img-fluid" src="../assets/images/bg1.jpg" alt="blog-image">
                             </figure>
                         </a>
 
@@ -704,7 +704,7 @@
                     <div class="col-lg-3 col-md-6 grids5-info column-img" id="zoomIn">
                         <a href="#">
                             <figure>
-                                <img class="img-fluid" src="src/assets/images/bg2.jpg" alt="blog-image">
+                                <img class="img-fluid" src="../assets/images/bg2.jpg" alt="blog-image">
                             </figure>
                         </a>
                         <div class="blog-thumbhny-caption">
@@ -718,7 +718,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 grids5-info column-img" id="zoomIn">
                         <figure>
-                            <img class="img-fluid" src="src/assets/images/bg3.jpg" alt="blog-image">
+                            <img class="img-fluid" src="../assets/images/bg3.jpg" alt="blog-image">
                         </figure>
                         <div class="blog-thumbhny-caption">
                             <ul class="blog-info-list">
@@ -732,7 +732,7 @@
 
                     <div class="col-lg-3 col-md-6 grids5-info column-img" id="zoomIn">
                         <figure>
-                            <img class="img-fluid" src="src/assets/images/bg4.jpg" alt="blog-image">
+                            <img class="img-fluid" src="../assets/images/bg4.jpg" alt="blog-image">
                         </figure>
                         <div class="blog-thumbhny-caption">
                             <ul class="blog-info-list">
@@ -777,7 +777,7 @@
                                                         quas nihil quasis.</p>
                                                 </div>
                                                 <div class="feedback-review mt-4">
-                                                    <img src="src/assets/images/c1.jpg" class="img-fluid" alt="">
+                                                    <img src="../assets/images/c1.jpg" class="img-fluid" alt="">
                                                     <h5>Smith Roy</h5>
 
                                                 </div>
@@ -792,7 +792,7 @@
                                                         quas nihil quasis.</p>
                                                 </div>
                                                 <div class="feedback-review mt-4">
-                                                    <img src="src/assets/images/c2.jpg" class="img-fluid" alt="">
+                                                    <img src="../assets/images/c2.jpg" class="img-fluid" alt="">
                                                     <h5>Lora Grill</h5>
 
                                                 </div>
@@ -807,7 +807,7 @@
                                                         quas nihil quasis.</p>
                                                 </div>
                                                 <div class="feedback-review mt-4">
-                                                    <img src="src/assets/images/c3.jpg" class="img-fluid" alt="">
+                                                    <img src="../assets/images/c3.jpg" class="img-fluid" alt="">
                                                     <h5>Laura Sten</h5>
 
                                                 </div>
@@ -822,7 +822,7 @@
                                                         quas nihil quasis.</p>
                                                 </div>
                                                 <div class="feedback-review mt-4">
-                                                    <img src="src/assets/images/c4.jpg" class="img-fluid" alt="">
+                                                    <img src="../assets/images/c4.jpg" class="img-fluid" alt="">
                                                     <h5>John Lee</h5>
 
                                                 </div>
@@ -844,7 +844,7 @@
                                                         quas nihil quasis.</p>
                                                 </div>
                                                 <div class="feedback-review mt-4">
-                                                    <img src="src/assets/images/c4.jpg" class="img-fluid" alt="">
+                                                    <img src="../assets/images/c4.jpg" class="img-fluid" alt="">
                                                     <h5>John Lee</h5>
 
                                                 </div>
@@ -859,7 +859,7 @@
                                                         quas nihil quasis.</p>
                                                 </div>
                                                 <div class="feedback-review mt-4">
-                                                    <img src="src/assets/images/c3.jpg" class="img-fluid" alt="">
+                                                    <img src="../assets/images/c3.jpg" class="img-fluid" alt="">
                                                     <h5>Laura Sten</h5>
 
                                                 </div>
@@ -874,7 +874,7 @@
                                                         quas nihil quasis.</p>
                                                 </div>
                                                 <div class="feedback-review mt-4">
-                                                    <img src="src/assets/images/c1.jpg" class="img-fluid" alt="">
+                                                    <img src="../assets/images/c1.jpg" class="img-fluid" alt="">
                                                     <h5>Smith Roy</h5>
 
                                                 </div>
@@ -889,7 +889,7 @@
                                                         quas nihil quasis.</p>
                                                 </div>
                                                 <div class="feedback-review mt-4">
-                                                    <img src="src/assets/images/c2.jpg" class="img-fluid" alt="">
+                                                    <img src="../assets/images/c2.jpg" class="img-fluid" alt="">
                                                     <h5>Lora Grill</h5>
 
                                                 </div>
