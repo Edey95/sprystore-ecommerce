@@ -23,9 +23,27 @@
     <script type="module" src="/src/main.js"></script>
     <script src="src/assets/js/jquery-3.3.1.min.js"></script>
     <script src="src/assets/js/jquery-2.1.4.min.js"></script>
-    <script src="src/assets/js/jquery-3.3.1.min.js"></script>
-    <script src="src/assets/js/jquery-2.1.4.min.js"></script>
     <!--/login-->
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function () {
+          scrollFunction()
+      };
+
+      function scrollFunction() {
+          if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+              document.getElementById("movetop").style.display = "block";
+          } else {
+              document.getElementById("movetop").style.display = "none";
+          }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+      }
+  </script>
     <script>
       $(document).ready(function () {
         $('.button-log a').click(function () {
@@ -44,12 +62,6 @@
       })
     </script>
     <!--//login-->
-    <script>
-      // optional
-      $('#customerhnyCarousel').carousel({
-        interval: 5000
-      })
-    </script>
     <!-- cart-js -->
     <script src="src/assets/js/minicart.js"></script>
     <script>
@@ -65,10 +77,13 @@
         }
       })
     </script>
+
     <!-- //cart-js -->
+
     <!--pop-up-box-->
     <script src="src/assets/js/jquery.magnific-popup.js"></script>
     <!--//pop-up-box-->
+
     <script>
       $(document).ready(function () {
         $('.popup-with-zoom-anim').magnificPopup({
