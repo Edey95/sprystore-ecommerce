@@ -19,9 +19,6 @@
                             </li>
                             <li><a class="twitter" href="#"><span class="fa fa-twitter" aria-hidden="true"></span></a>
                             </li>
-                            <li><a class="google" href="#"><span class="fa fa-google-plus"
-                                        aria-hidden="true"></span></a>
-                            </li>
                             <li><a class="instagram" href="#"><span class="fa fa-instagram"
                                         aria-hidden="true"></span></a>
                             </li>
@@ -29,33 +26,31 @@
                     </div>
 
                     <div class="right-side col-lg-8 pl-lg-5">
-                        <h4>Women's Day Special Offer
-                            All Branded Sandals are Flat 50% Discount</h4>
+                        <h4>Excelentes Descuentos de Hasta un 20% y Muchísimo más.</h4>
                         <div class="sub-columns">
                             <div class="sub-one-left">
-                                <h6>Useful Links</h6>
+                                <h6>Enlaces Útiles</h6>
                                 <div class="footer-hny-ul">
                                     <ul>
-                                        <li><RouterLink to='/'>Home</RouterLink></li>
-                                        <li><RouterLink to='/about-us'>About US</RouterLink></li>
-                                        <li><RouterLink to='/shop'>Store</RouterLink></li>
-                                        <li><RouterLink to='/contact'>Contact</RouterLink></li>
+                                        <li><RouterLink to='/'>Inicio</RouterLink></li>
+                                        <li><RouterLink to='/about-us'>Sobre Nosotros</RouterLink></li>
+                                        <li><RouterLink to='/shop'>Tienda</RouterLink></li>
+                                        <li><RouterLink to='/contact'>Contacto</RouterLink></li>
                                     </ul>
                                     <ul>
-                                        <li><a href="#">Careers</a></li>
-                                        <li><a href="#">Privacy Policy</a></li>
-                                        <li><a href="#">Terms and Conditions</a></li>
-                                        <li><a href="contact.html">Support</a></li>
+                                        <li><a href="#">Proveedores</a></li>
+                                        <li><a href="#">Prolítica de Privacidad</a></li>
+                                        <li><a href="#">Términos y Condiciones</a></li>
+                                        <li><RouterLink to='/contact'>Soporte</RouterLink></li>
                                     </ul>
                                 </div>
 
                             </div>
                             <div class="sub-two-right">
-                                <h6>Our Store</h6>
-                                <p class="mb-5">49436 Broaddus Honey Court Avenue, Madisonville KY 95020, United States
-                                    of America</p>
+                                <h6>Nuestra Tienda</h6>
+                                <p class="mb-5">Guanacaste, Liberia, Costa Rica</p>
 
-                                <h6>We accept:</h6>
+                                <h6>Aceptamos:</h6>
                                 <ul>
                                     <li><a class="pay-method"><span class="fa fa-cc-visa"
                                                 aria-hidden="true"></span></a>
@@ -77,15 +72,15 @@
                 <div class="below-section row">
                     <div class="columns col-lg-6">
                         <ul class="jst-link">
-                            <li><a href="#">Privacy Policy </a> </li>
-                            <li><a href="#">Term of Service</a></li>
-                            <li><RouterLink to='/contact'>Customers Care</RouterLink></li>
+                            <li><a href="#">Política de Privacidad </a> </li>
+                            <li><a href="#">Términos y Condiciones</a></li>
+                            <li><RouterLink to='/contact'>Quejas de Consumidores</RouterLink></li>
                         </ul>
                     </div>
                     <div class="columns col-lg-6 text-lg-right">
-                        <p>© 2023 GilliBuying. All rights reserved. Design by <a href="https://edeyglez95.com/"
+                        <p>© 2023 GilliBuying. Todos os derechos reservados. Creado por <a href="https://edeyglez95.com/"
                                 target="_blank">
-                                Cuban IT Solutions</a>
+                                Ertyglez95</a>
                         </p>
                     </div>
                     <button onclick="topFunction()" id="movetop" title="Go to top">
@@ -96,8 +91,11 @@
         </div>
 </template>
 
-<script lang="ts" setup>
-const scrollToTop = () =>{
-    window.scrollTo(0,0);
-  }
+<script lang="ts">
+export default {
+
+    mounted() {
+      window.scrollTo(0,0)
+  },
+}
 </script>

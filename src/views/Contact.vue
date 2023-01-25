@@ -8,13 +8,13 @@
                 <div class="breadcrumb-contentnhy">
                     <div class="container">
                         <nav aria-label="breadcrumb">
-                            <h2 class="hny-title text-center">Contact Us</h2>
+                            <h2 class="hny-title text-center">CONTÁCTENOS</h2>
                             <ol class="breadcrumb mb-0">
                                 <li>
-                                    <RouterLink to='/'>Home</RouterLink>
+                                    <RouterLink to='/'>Inicio</RouterLink>
                                     <span class="fa fa-angle-double-right"></span>
                                 </li>
-                                <li class="active">Contact</li>
+                                <li class="active">Contacto</li>
                             </ol>
                         </nav>
                     </div>
@@ -29,25 +29,24 @@
                 <div class="row top-map">
                     <div class="col-lg-6 partners">
                         <div class="cont-details">
-                            <h3 class="hny-title mb-0">Get in <span>touch</span></h3>
-                                <p class="mb-5">We're ready to lead you into the future with Business Services</p>
-                                <p class="margin-top"><span class="texthny">Call Us : </span> <a
-                                        href="tel:+(21) 255 999 8899">+(21)
-                                        255 999 8899</a></p>
-                                <p> <span class="texthny">Email : </span> <a href="mailto:info@example.com">
-                                        info@example.com</a></p>
-                                <p class="margin-top"> 433 California St, Suite 300
-                                    San Francisco, CA 94104, USA </p>
+                            <h3 class="hny-title mb-0">Estemos en <span>Contacto</span></h3>
+                                <p class="mb-5">Estamos listos para atenderlo para futuras negociaciones.</p>
+                                <p class="margin-top"><span class="texthny">LLámanos : </span> <a
+                                        href="tel:+(506) 61571243">+(506)
+                                        61571243</a></p>
+                                <p> <span class="texthny">Correo : </span> <a href="mailto:ygporto65@gmail.com">
+                                    ygporto65@gmail.com</a></p>
+                                <p class="margin-top"> Guanacaste, Liberia, Costa Rica.</p>
                         </div>
                         <div class="hours">
-                            <h3 class="hny-title">Working <span>Hours</span></h3>
-                                <h6>Business Service:</h6>
-                                <p> Monday to Friday 8.00 am - 6.00 pm</p>
-                                <p> Saturday and Sunday - Closed</p>
-                                <h6 class="margin-top">Customer support:</h6>
-                                <p> Monday to Friday 8.00 am - 6.00 pm</p>
-                                <p> Saturday 10.00 am - 4.00 pm</p>
-                                <p> Sunday - Closed</p>
+                            <h3 class="hny-title">Horas <span>Laborales</span></h3>
+                                <h6>Servicio de Negocios:</h6>
+                                <p> Lunes a Viernes 8.00 am - 6.00 pm</p>
+                                <p> Sábados y Domingos - Cerrado</p>
+                                <h6 class="margin-top">Soporte al Consumidor:</h6>
+                                <p> Lunes a Viernes 8.00 am - 6.00 pm</p>
+                                <p> Sábados 10.00 am - 4.00 pm</p>
+                                <p> Domingos - Cerrado</p>
                         </div>
                     </div>
                     <div class="col-lg-6 map">
@@ -62,19 +61,19 @@
             <div class="layer section-gap py-5">
                 <div class="container py-lg-5">
                     <div class="form">
-                        <h3 class="hny-title two text-center">Fill out the form.</h3>
+                        <h3 class="hny-title two text-center">Rellene el formulario.</h3>
                         <form action="https://sendmail.w3layouts.com/submitForm" class="mt-md-5 mt-4" method="post">
                             <div class="input-grids">
-                                <input type="text" name="w3lName" id="w3lName" placeholder="Name">
-                                <input type="email" name="w3lSender" id="w3lSender" placeholder="Email" required />
-                                <input type="subject" name="w3lSubject" id="w3lSubject" placeholder="Subject"
+                                <input type="text" name="w3lName" id="w3lName" placeholder="Nombre">
+                                <input type="email" name="w3lSender" id="w3lSender" placeholder="Correo" required />
+                                <input type="subject" name="w3lSubject" id="w3lSubject" placeholder="Subjeto"
                                     required>
                             </div>
                             <div class="input-textarea">
-                                <textarea name="w3lMessage" id="w3lMessage" placeholder="Message"
+                                <textarea name="w3lMessage" id="w3lMessage" placeholder="Mensaje"
                                     required></textarea>
                             </div>
-                            <button type="submit" class="btn">Send</button>
+                            <button type="submit" class="btn">Enviar</button>
                         </form>
                     </div>
                 </div>
@@ -91,17 +90,9 @@
     <!-- //Footer section-->
 </template>
 
-<script lang="ts">
+<script lang="ts" setup>
 
 //importing bootstrap 5 Modules
 import Header from '../components/Header.vue'
 import Footer from '../components/Footer.vue';
-
-export default {
-
-  components: {
-    Header,
-    Footer
-  }
-}
 </script>

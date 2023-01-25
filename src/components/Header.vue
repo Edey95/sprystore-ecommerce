@@ -4,9 +4,9 @@
             <div class="top-right-strip row">
                 <!--/left-->
                 <div class="top-hny-left-content col-lg-6 pl-lg-0">
-                    <h6>Upto 30% off on All styles , <a href="#" target="_blank"> Click here for <span
+                    <h6>Hasta un 10% de Descuento, <a href="#" target="_blank"> Click aquí para <span
                                 class="fa fa-hand-o-right hand-icon" aria-hidden="true"></span> <span
-                                class="hignlaite">More details</span></a></h6>
+                                class="hignlaite">Más Detalles</span></a></h6>
                 </div>
                 <!--//left-->
                 <!--/right-->
@@ -21,8 +21,8 @@
                         <form action="#" method="post" class="last">
                             <input type="hidden" name="cmd" value="_cart">
                             <input type="hidden" name="display" value="1">
-                            <button class="top_transmitv_cart" type="submit" name="submit" value="">
-                                My Cart
+                            <button class="top_transmitv_cart" name="submit" value="">
+                                Almacen
                                 <span class="fa fa-shopping-cart"></span>
                             </button>
                         </form>
@@ -82,7 +82,7 @@
                 <div class="search-right">
 
                     <a href="#search" title="search"><span class="fa fa-search mr-2" aria-hidden="true"></span>
-                        <span class="search-text">Search here</span></a>
+                        <span class="search-text">Buscar</span></a>
                     <!-- search popup -->
                     <div id="search" class="pop-overlay">
                         <div class="popup">
@@ -106,16 +106,16 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active">
-                            <RouterLink to='/' class="nav-link">Home</RouterLink>
+                            <RouterLink to='/' class="nav-link">Inicio</RouterLink>
                         </li>
                         <li class="nav-item">
-                            <RouterLink to='/shop' class="nav-link">Store</RouterLink>
+                            <RouterLink to='/shop' class="nav-link">Tienda</RouterLink>
                         </li>
                         <li class="nav-item">
-                            <RouterLink to='/about-us' class="nav-link">About Us</RouterLink>
+                            <RouterLink to='/about-us' class="nav-link">Acerca de</RouterLink>
                         </li>                        
                         <li class="nav-item">
-                            <RouterLink to='/contact' class="nav-link">Contact</RouterLink>
+                            <RouterLink to='/contact' class="nav-link">Contacto</RouterLink>
                         </li>
                     </ul>
 

@@ -15,26 +15,25 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-							<div class="container">
-								<div class="carousel-caption">
-									<h3>Women's
-										Fashion
-										<br>50% Off</h3>
-									<a href="#" class="shop-button btn">
-										Shop Now
-									</a>
-								</div>
-							</div>
-						</div>
+                                <div class="container">
+                                    <div class="carousel-caption">
+                                        <h3>Ropa de Mujer
+                                            <br>20% Descuento
+                                        </h3>
+                                        <a href="#" class="shop-button btn">
+                                            Comprar Ahora
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="carousel-item item2">
                                 <div class="container">
                                     <div class="carousel-caption">
-                                        <h3>Men's
-                                            Fashion
-                                            <br>60% Off
+                                        <h3>Ropa de Hombre
+                                            <br>20% Descuento
                                         </h3>
                                         <a href="#" class="shop-button btn">
-                                            Shop Now
+                                            Comprar Ahora
                                         </a>
 
                                     </div>
@@ -43,39 +42,39 @@
                             <div class="carousel-item item3">
                                 <div class="container">
                                     <div class="carousel-caption">
-                                        <h3>Women's
-                                            Fashion
-                                            <br>50% Off
+                                        <h3>Accesorios de Oro Laminado
+                                            <br>6% Off
                                         </h3>
                                         <a href="#" class="shop-button btn">
-                                            Shop Now
+                                            Comprar Ahora
                                         </a>
-
                                     </div>
                                 </div>
                             </div>
                             <div class="carousel-item item4">
                                 <div class="container">
                                     <div class="carousel-caption">
-                                        <h3>Men's
-                                            Fashion
-                                            <br>60% Off
+                                        <h3>Accesorios de Acero
+                                            <br>5% Off
                                         </h3>
                                         <a href="#" class="shop-button btn">
-                                            Shop Now
+                                            Comprar Ahora
                                         </a>
+
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-bs-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"
+                            data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Anterior</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button"
+                            data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Siguiente</span>
+                        </a>
                     </div>
                 </div>
                 <!--//banner-slider-->
@@ -83,9 +82,8 @@
                 <div class="right-banner">
                     <div class="right-1">
                         <h4>
-                            Men's
-                            Fashion
-                            <br>50% Off
+                            Variedad en prendas Masculinas
+                            <br>10% Descuento
                         </h4>
                     </div>
                 </div>
@@ -93,22 +91,22 @@
             </div>
         </div>
     </section>
-    
-<!-- //w3l-banner-slider-main -->
-<section class="w3l-grids-hny-2">
+
+    <!-- //w3l-banner-slider-main -->
+    <section class="w3l-grids-hny-2">
         <!-- /content-6-section -->
         <div class="grids-hny-2-mian py-5">
             <div class="container py-lg-5">
 
-                <h3 class="hny-title mb-0 text-center">Shop With <span>Us</span></h3>
-                <p class="mb-4 text-center">Handpicked Favourites just for you</p>
+                <h3 class="hny-title mb-0 text-center">Compre Con <span>Nosotros</span></h3>
+                <p class="mb-4 text-center">Sus prendas favoritas escojidas a mano para usted.</p>
                 <div class="welcome-grids row mt-5">
                     <div class="col-lg-2 col-md-2 col-6 welcome-image">
                         <div class="boxhny13">
                             <a href="#URL">
                                 <img src="../assets/images/grid1.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
-                                    <h3 class="title">Hand Bags</h3>
+                                    <h3 class="title">Bolsas</h3>
                                 </div>
                             </a>
                         </div>
@@ -119,7 +117,7 @@
                             <a href="#URL">
                                 <img src="../assets/images/grid3.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
-                                    <h3 class="title">Watches</h3>
+                                    <h3 class="title">Relojes</h3>
                                 </div>
                             </a>
                         </div>
@@ -129,7 +127,7 @@
                             <a href="#URL">
                                 <img src="../assets/images/grid2.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
-                                    <h3 class="title">Shoes</h3>
+                                    <h3 class="title">Zapatos</h3>
                                 </div>
                             </a>
                         </div>
@@ -139,7 +137,7 @@
                             <a href="#URL">
                                 <img src="../assets/images/grid4.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
-                                    <h3 class="title">Suits</h3>
+                                    <h3 class="title">Ropa</h3>
                                 </div>
                             </a>
                         </div>
@@ -149,7 +147,7 @@
                             <a href="#URL">
                                 <img src="../assets/images/grid5.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
-                                    <h3 class="title">Accessories</h3>
+                                    <h3 class="title">Accesorios</h3>
                                 </div>
                             </a>
                         </div>
@@ -159,7 +157,7 @@
                             <a href="#URL">
                                 <img src="../assets/images/grid6.jpg" class="img-fluid" alt="" />
                                 <div class="boxhny-content">
-                                    <h3 class="title">Fragrances</h3>
+                                    <h3 class="title">Perfumería</h3>
                                 </div>
                             </a>
                         </div>
@@ -178,26 +176,28 @@
                 <div class="align-photo-6-inf-cols row">
 
                     <div class="photo-6-inf-right col-lg-6">
-                        <h3 class="hny-title text-left">All Branded Men's Suits are Flat <span>30% Discount</span></h3>
-                        <p>Visit our shop to see amazing creations from our designers.</p>
+                        <h3 class="hny-title text-left">Todos los conjuntos vienen con un <span>30% de descuento</span></h3>
+                        <p>Visite nuestra tiende y vea las increíbles creaciones de diseñadores locales y extrangeros.</p>
                         <a href="#" class="read-more btn">
-                            Shop Now
+                            Comprar Ahora
                         </a>
                     </div>
                     <div class="photo-6-inf-left col-lg-6">
-                        <img src="../assets/images/1.jpg" class="img-fluid" alt="">
+                        <img src="../assets/images/2.jpg" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    
+
+
+    <!-- Product List-->
     <section class="w3l-ecommerce-main">
         <!-- /products-->
         <div class="ecom-contenthny py-10">
             <div class="container py-lg-10">
-                <h3 class="hny-title mb-0 text-center">Shop With <span>Us</span></h3>
-                <p class="text-center">Handpicked Favourites just for you</p>
+                <h3 class="hny-title mb-0 text-center">Compre con <span>Nosotros</span></h3>
+                <p class="text-center">Escogidos a mano solo para usted</p>
                 <!-- /row-->
                 <div class="ecom-products-grids row mt-lg-5 mt-3">
                     <div class="col-lg-3 col-6 product-incfhny mt-4">
@@ -462,8 +462,9 @@
             </div>
         </div>
     </section>
-
     <!-- //products-->
+
+
     <section class="w3l-content-5">
         <!-- /content-6-section -->
         <div class="content-5-main">
@@ -471,27 +472,23 @@
                 <div class="content-info-in row">
                     <div class="content-gd col-md-6 offset-lg-3 text-center">
                         <h3 class="hny-title two">
-                            Tons of Products & Options to
-                            <span>change</span>
+                            Regálece la posibilidad de disfrutar un
+                            <span>cambio de look</span>
                         </h3>
                         <p>Ea consequuntur illum facere aperiam sequi optio consectetur adipisicing elitFuga, suscipit
                             totam
                             animi consequatur saepe blanditiis.Lorem ipsum dolor sit amet,Ea consequuntur illum facere
                             aperiam sequi optio consectetur adipisicing elit..</p>
                         <a href="#" class="read-more-btn2 btn">
-                            Shop Now
+                            Comprar Ahora
                         </a>
-
                     </div>
-
                 </div>
-
             </div>
         </div>
     </section>
-    
     <!-- //post-grids-->
-    
+
 
     <!-- //customers-->
     <section class="w3l-subscription-6">
@@ -503,15 +500,15 @@
 
                     <div class="subscription-right form-right-inf col-lg-6 p-md-5 p-4">
                         <div class="p-lg-5 py-md-0 py-3">
-                            <h3 class="hny-title">Join us for FREE to get instant <span>email updates!</span></h3>
-                            <p>Subscribe and get notified at first on the latest update and offers!</p>
+                            <h3 class="hny-title">Únase gratis y reciva las novedades vía <span>correo electrónico!</span></h3>
+                            <p>Subscríbace y obtenga notificaciones sobre las nuevas novedades y rebajas!</p>
 
                             <form action="#" method="post" class="signin-form mt-lg-5 mt-4">
                                 <div class="forms-gds">
                                     <div class="form-input">
-                                        <input type="email" name="" placeholder="Your email here" required>
+                                        <input type="email" name="" placeholder="Su Correo Aquí" required>
                                     </div>
-                                    <div class="form-input"><button class="btn">Join</button></div>
+                                    <div class="form-input"><button class="btn">Unirme</button></div>
                                 </div>
                             </form>
                         </div>
@@ -533,17 +530,9 @@
     <!-- //Footer section-->
 </template>
 
-<script lang="ts">
+<script lang="ts" setup>
 
 //importing bootstrap 5 Modules
 import Header from '../components/Header.vue'
 import Footer from '../components/Footer.vue'
-
-export default {
-
-    components: {
-        Header,
-        Footer
-    }
-}
 </script>

@@ -8,13 +8,13 @@
                 <div class="breadcrumb-contentnhy">
                     <div class="container">
                         <nav aria-label="breadcrumb">
-                            <h2 class="hny-title text-center">Shop With Us</h2>
+                            <h2 class="hny-title text-center">COMPRE CON NOSOTROS</h2>
                             <ol class="breadcrumb mb-0">
                                 <li>
-                                    <RouterLink to='/'>Home</RouterLink>
+                                    <RouterLink to='/'>Inicio</RouterLink>
                                     <span class="fa fa-angle-double-right"></span>
                                 </li>
-                                <li class="active">Store</li>
+                                <li class="active">Tienda</li>
                             </ol>
                         </nav>
                     </div>
@@ -28,8 +28,8 @@
         <div class="grids-hny-2-mian py-10">
             <div class="container py-lg-5">
 
-                <h3 class="hny-title mb-0 text-center">Shop With <span>Us</span></h3>
-                <p class="mb-4 text-center">Handpicked Favourites just for you</p>
+               <!--  <h3 class="hny-title mb-0 text-center">Shop With <span>Us</span></h3>
+                <p class="mb-4 text-center">Handpicked Favourites just for you</p> -->
                 <div class="welcome-grids row mt-5">
                     <div class="col-lg-2 col-md-2 col-6 welcome-image">
                         <div class="boxhny13">
@@ -375,17 +375,10 @@
     <!-- //Footer section-->
 </template>
 
-<script lang="ts">
+<script lang="ts" setup>
 
 //importing bootstrap 5 Modules
 import Header from '../components/Header.vue'
 import Footer from '../components/Footer.vue';
 
-export default {
-
-  components: {
-    Header,
-    Footer
-  }
-}
 </script>
