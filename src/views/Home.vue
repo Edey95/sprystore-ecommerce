@@ -171,7 +171,6 @@
     </section>
 
     <!-- //content-6-section -->
-
     <section class="w3l-content-w-photo-6">
         <!-- /specification-6-->
         <div class="content-photo-6-mian py-5">
