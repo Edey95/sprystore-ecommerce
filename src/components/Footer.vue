@@ -5,7 +5,7 @@
                 <div class="text-txt row">
                     <div class="left-side col-lg-4">
                         <h3><a class="logo-footer" href="index.html">
-                                Spry<span class="lohny">S</span>tore</a></h3>
+                                Gilli<span class="lohny">B</span>uying</a></h3>
                         <!-- if logo is image enable this   
                                     <a class="navbar-brand" href="#index.html">
                                         <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
@@ -95,3 +95,9 @@
             </div>
         </div>
 </template>
+
+<script lang="ts" setup>
+const scrollToTop = () =>{
+    window.scrollTo(0,0);
+  }
+</script>

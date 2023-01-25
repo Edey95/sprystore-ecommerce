@@ -98,8 +98,8 @@
                     <!-- /search popup -->
                 </div>
                 <!--//search-right-->
-                <button class="navbar-toggler" type="button" data-toggle="collapse"
-                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon fa fa-bars"> </span>
                 </button>
@@ -109,11 +109,11 @@
                             <RouterLink to='/' class="nav-link">Home</RouterLink>
                         </li>
                         <li class="nav-item">
-                            <RouterLink to='/about-us' class="nav-link">About Us</RouterLink>
-                        </li>
-                        <li class="nav-item">
                             <RouterLink to='/shop' class="nav-link">Store</RouterLink>
                         </li>
+                        <li class="nav-item">
+                            <RouterLink to='/about-us' class="nav-link">About Us</RouterLink>
+                        </li>                        
                         <li class="nav-item">
                             <RouterLink to='/contact' class="nav-link">Contact</RouterLink>
                         </li>
@@ -125,3 +125,8 @@
         <!--//nav-->
     </header>
 </template>
+
+<script lang="ts" setup>
+
+      
+</script>

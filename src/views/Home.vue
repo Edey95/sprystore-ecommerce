@@ -4,31 +4,28 @@
         <div class="top-header-content">
             <Header></Header>
             <div class="bannerhny-content">
-
                 <!--/banner-slider-->
                 <div class="content-baner-inf">
                     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-indicators">
+                        <ol class="carousel-indicators">
                             <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"></li>
                             <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
                             <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"></li>
                             <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"></li>
-                        </div>
+                        </ol>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <div class="container">
-                                    <div class="carousel-caption">
-                                        <h3>Women's
-                                            Fashion
-                                            <br>50% Off
-                                        </h3>
-                                        <a href="#" class="shop-button btn">
-                                            Shop Now
-                                        </a>
-
-                                    </div>
-                                </div>
-                            </div>
+							<div class="container">
+								<div class="carousel-caption">
+									<h3>Women's
+										Fashion
+										<br>50% Off</h3>
+									<a href="#" class="shop-button btn">
+										Shop Now
+									</a>
+								</div>
+							</div>
+						</div>
                             <div class="carousel-item item2">
                                 <div class="container">
                                     <div class="carousel-caption">
@@ -71,16 +68,14 @@
                                 </div>
                             </div>
                         </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
-                            data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
-                            data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </button>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-bs-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
                     </div>
                 </div>
                 <!--//banner-slider-->
@@ -102,7 +97,7 @@
 <!-- //w3l-banner-slider-main -->
 <section class="w3l-grids-hny-2">
         <!-- /content-6-section -->
-        <div class="grids-hny-2-mian py-10">
+        <div class="grids-hny-2-mian py-5">
             <div class="container py-lg-5">
 
                 <h3 class="hny-title mb-0 text-center">Shop With <span>Us</span></h3>
@@ -197,49 +192,11 @@
             </div>
         </div>
     </section>
-
-    <!-- //specification-6-->
-    <section class="w3l-video-6">
-        <!-- /video-6-->
-        <div class="video-66-info">
-            <div class="container-fluid">
-                <div class="video-grids-info row">
-                    <div class="video-gd-right col-lg-8">
-                        <div class="video-inner text-center">
-                            <!--popup-->
-                            <a class="play-button btn popup-with-zoom-anim" href="#small-dialog">
-                                <span class="fa fa-play" aria-hidden="true"></span>
-                            </a>
-                            <div id="small-dialog" class="mfp-hide">
-                                <div class="search-top notify-popup">
-                                    <iframe src="https://player.vimeo.com/video/246139491" frameborder="0"
-                                        allow="autoplay; fullscreen" allowfullscreen></iframe>
-                                </div>
-                            </div>
-                            <!--//popup-->
-                        </div>
-                    </div>
-                    <div class="video-gd-left col-lg-4 p-lg-5 p-4">
-                        <div class="p-xl-4 p-0 video-wrap">
-                            <h3 class="hny-title text-left">All Branded Women's Bags are Flat <span>30% Discount</span>
-                            </h3>
-                            <p>Visit our shop to see amazing creations from our designers.</p>
-                            <a href="#" class="read-more btn">
-                                Shop Now
-                            </a>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- //video-6-->
+    
     <section class="w3l-ecommerce-main">
         <!-- /products-->
-        <div class="ecom-contenthny py-5">
-            <div class="container py-lg-5">
+        <div class="ecom-contenthny py-10">
+            <div class="container py-lg-10">
                 <h3 class="hny-title mb-0 text-center">Shop With <span>Us</span></h3>
                 <p class="text-center">Handpicked Favourites just for you</p>
                 <!-- /row-->
@@ -535,168 +492,7 @@
     </section>
     
     <!-- //post-grids-->
-    <section class="w3l-customers-sec-6">
-        <div class="customers-sec-6-cintent py-5">
-            <!-- /customers-->
-            <div class="container py-lg-5">
-                <h3 class="hny-title text-center mb-0 ">Customers <span>Love</span></h3>
-                <p class="mb-5 text-center">What People Say</p>
-                <div class="row customerhny my-lg-5 my-4">
-                    <div class="col-md-12">
-                        <div id="customerhnyCarousel" class="carousel slide" data-ride="carousel">
-
-                            <ol class="carousel-indicators">
-                                <li data-target="#customerhnyCarousel" data-slide-to="0" class="active"></li>
-                                <li data-target="#customerhnyCarousel" data-slide-to="1"></li>
-                            </ol>
-                            <!-- Carousel items -->
-                            <div class="carousel-inner">
-
-                                <div class="carousel-item active">
-                                    <div class="row">
-                                        <div class="col-md-3">
-                                            <div class="customer-info text-center">
-                                                <div class="feedback-hny">
-                                                    <span class="fa fa-quote-left"></span>
-                                                    <p class="feedback-para">Lorem, ipsum dolor sit amet consectetur
-                                                        adipisicing elit. Labore rem, dicta assumenda mollitia molestias
-                                                        quas nihil quasis.</p>
-                                                </div>
-                                                <div class="feedback-review mt-4">
-                                                    <img src="../assets/images/c1.jpg" class="img-fluid" alt="">
-                                                    <h5>Smith Roy</h5>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="customer-info text-center">
-                                                <div class="feedback-hny">
-                                                    <span class="fa fa-quote-left"></span>
-                                                    <p class="feedback-para">Lorem, ipsum dolor sit amet consectetur
-                                                        adipisicing elit. Labore rem, dicta assumenda mollitia molestias
-                                                        quas nihil quasis.</p>
-                                                </div>
-                                                <div class="feedback-review mt-4">
-                                                    <img src="../assets/images/c2.jpg" class="img-fluid" alt="">
-                                                    <h5>Lora Grill</h5>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="customer-info text-center">
-                                                <div class="feedback-hny">
-                                                    <span class="fa fa-quote-left"></span>
-                                                    <p class="feedback-para">Lorem, ipsum dolor sit amet consectetur
-                                                        adipisicing elit. Labore rem, dicta assumenda mollitia molestias
-                                                        quas nihil quasis.</p>
-                                                </div>
-                                                <div class="feedback-review mt-4">
-                                                    <img src="../assets/images/c3.jpg" class="img-fluid" alt="">
-                                                    <h5>Laura Sten</h5>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="customer-info text-center">
-                                                <div class="feedback-hny">
-                                                    <span class="fa fa-quote-left"></span>
-                                                    <p class="feedback-para">Lorem, ipsum dolor sit amet consectetur
-                                                        adipisicing elit. Labore rem, dicta assumenda mollitia molestias
-                                                        quas nihil quasis.</p>
-                                                </div>
-                                                <div class="feedback-review mt-4">
-                                                    <img src="../assets/images/c4.jpg" class="img-fluid" alt="">
-                                                    <h5>John Lee</h5>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--.row-->
-                                </div>
-                                <!--.item-->
-
-                                <div class="carousel-item">
-                                    <div class="row">
-                                        <div class="col-md-3">
-                                            <div class="customer-info text-center">
-                                                <div class="feedback-hny">
-                                                    <span class="fa fa-quote-left"></span>
-                                                    <p class="feedback-para">Lorem, ipsum dolor sit amet consectetur
-                                                        adipisicing elit. Labore rem, dicta assumenda mollitia molestias
-                                                        quas nihil quasis.</p>
-                                                </div>
-                                                <div class="feedback-review mt-4">
-                                                    <img src="../assets/images/c4.jpg" class="img-fluid" alt="">
-                                                    <h5>John Lee</h5>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="customer-info text-center">
-                                                <div class="feedback-hny">
-                                                    <span class="fa fa-quote-left"></span>
-                                                    <p class="feedback-para">Lorem, ipsum dolor sit amet consectetur
-                                                        adipisicing elit. Labore rem, dicta assumenda mollitia molestias
-                                                        quas nihil quasis.</p>
-                                                </div>
-                                                <div class="feedback-review mt-4">
-                                                    <img src="../assets/images/c3.jpg" class="img-fluid" alt="">
-                                                    <h5>Laura Sten</h5>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="customer-info text-center">
-                                                <div class="feedback-hny">
-                                                    <span class="fa fa-quote-left"></span>
-                                                    <p class="feedback-para">Lorem, ipsum dolor sit amet consectetur
-                                                        adipisicing elit. Labore rem, dicta assumenda mollitia molestias
-                                                        quas nihil quasis.</p>
-                                                </div>
-                                                <div class="feedback-review mt-4">
-                                                    <img src="../assets/images/c1.jpg" class="img-fluid" alt="">
-                                                    <h5>Smith Roy</h5>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div class="customer-info text-center">
-                                                <div class="feedback-hny">
-                                                    <span class="fa fa-quote-left"></span>
-                                                    <p class="feedback-para">Lorem, ipsum dolor sit amet consectetur
-                                                        adipisicing elit. Labore rem, dicta assumenda mollitia molestias
-                                                        quas nihil quasis.</p>
-                                                </div>
-                                                <div class="feedback-review mt-4">
-                                                    <img src="../assets/images/c2.jpg" class="img-fluid" alt="">
-                                                    <h5>Lora Grill</h5>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--.row-->
-                                </div>
-                                <!--.item-->
-
-                            </div>
-                            <!--.carousel-inner-->
-                        </div>
-                        <!--.Carousel-->
-                      
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
     <!-- //customers-->
     <section class="w3l-subscription-6">
