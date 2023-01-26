@@ -4,6 +4,8 @@ import ContactView from '@/views/Contact.vue'
 import AboutView from '@/views/About.vue'
 import ShopView from '@/views/Shop.vue'
 
+import DashboardView from '@/views/Admin/Dashboard.vue'
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -35,6 +37,11 @@ const router = createRouter({
       // which is lazy-loaded when the route is visited.
       component: () => import('../views/AboutView.vue')
     }, */
+    {
+      path: '/admin',
+      name: 'dashboard',
+      component: DashboardView
+    }
   ]
 })
 
