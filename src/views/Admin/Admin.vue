@@ -1,5 +1,8 @@
 <template>
-    <div class="dashboard">
+    <div id="app">
+      <Header></Header>
+      <div class="main-content">
+        <div class="dashboard">
         <div class="card-icon">
             <div class="card-icon-body">
                 <div class="card-icon-i">
@@ -40,7 +43,7 @@
                 <h3>Lorem ipsum dolor</h3>
             </div>
         </div>
-        <div class="table">
+        <!-- <div class="table">
             <div class="table-head">
                 <h3>Table</h3>
             </div>
@@ -196,7 +199,7 @@
                     </table>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="cards">
             <div class="card">
                 <div class="icon">
@@ -221,20 +224,25 @@
             </div>
         </div>
     </div>
+      </div>
+      <Footer></Footer>
+    </div>
 </template>
 
 <script lang="ts">
+import Header from '../../components/Admin/DashHeader.vue';
+import Footer from '../../components/Admin/DashFooter.vue';
+import Dashboard from '../Admin/Dashboard.vue'
+
 export default {
-    name: 'Dashboard',
-    data(){
-        return{
-            
-        }
+    components:{
+      Header, Footer, Dashboard
     }
 }
 </script>
 
 <style scoped>
+
 .dashboard{
     display: flex;
     flex-wrap: wrap;
@@ -424,4 +432,45 @@ export default {
         z-index: 0;
     }
 }
+.main-content{
+  padding: 105px 25px 0 25px;
+  margin-left: 5rem;
+  z-index: -1;
+  min-height: 600px;
+  background-color: #f1fdf3;
+}
+@media only screen and (max-width: 768px) {
+    .main-content{
+        margin-left: 0;    
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+html, body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+#app{
+    overflow-x: hidden;
+    height: 100%;
+    position: relative;
+    max-width: 100%;
+}
+
+#main{
+    position: relative;
+}
+
+
 </style>

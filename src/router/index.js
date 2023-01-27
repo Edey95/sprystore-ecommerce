@@ -4,7 +4,8 @@ import ContactView from '@/views/Contact.vue'
 import AboutView from '@/views/About.vue'
 import ShopView from '@/views/Shop.vue'
 
-import DashboardView from '@/views/Admin/Dashboard.vue'
+import AdminView from '@/views/Admin/Admin.vue'
+import BannerListView from '@/views/Admin/Banners/BannersList.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -40,8 +41,13 @@ const router = createRouter({
     {
       path: '/admin',
       name: 'dashboard',
-      component: DashboardView
-    }
+      component: AdminView
+    },
+    {
+      path: '/banners',
+      name: 'banners',
+      component: BannerListView
+    },
   ]
 })
 

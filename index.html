@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Template CSS -->
     <link rel="stylesheet" href="/src/assets/css/style-starter.css" />
-    <!--link rel="stylesheet" href="/src/assets/dasboard-assets/dashboard.css" /-->
-    <!-- Template CSS -->
     <link
       href="//fonts.googleapis.com/css?family=Oswald:300,400,500,600&display=swap"
       rel="stylesheet"
@@ -23,28 +21,11 @@
     <div id="app"></div>
 
     <script type="module" src="/src/main.js"></script>
-    <script type="module" src="/src/assets/dasboard-assets/dashboard.js"></script>
 
     <!--/login-->
     <script>
       // When the user scrolls down 20px from the top of the document, show the button
-      window.onscroll = function () {
-          scrollFunction()
-      };
-
-      function scrollFunction() {
-          if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-              document.getElementById("movetop").style.display = "block";
-          } else {
-              document.getElementById("movetop").style.display = "none";
-          }
-      }
-
-      // When the user clicks on the button, scroll to the top of the document
-      function topFunction() {
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-      }
+     
   </script>
   </body>
 </html>
