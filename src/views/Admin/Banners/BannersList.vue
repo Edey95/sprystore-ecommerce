@@ -14,7 +14,11 @@
                                     <tr>
                                         <th>Titulo</th>
                                         <th>Descricion</th>
-                                        <th>Imagen (URL)</th>
+                                        <th>Imagen P (URL)</th>
+                                        <th>Imagen 1 (URL)</th>
+                                        <th>Imagen 2 (URL)</th>
+                                        <th>Imagen 3 (URL)</th>
+                                        <th>Imagen 4 (URL)</th>
                                         <th>Categoria</th>
                                         <th>Buttons</th>
                                     </tr>
@@ -33,102 +37,6 @@
                                         <td>
                                             lorem
                                         </td>
-                                        <td>
-                                            <div class="btn-group">
-                                                <a href="" title="View">
-                                                    <i class="fa fa-eye"></i>
-                                                </a>
-                                                <a href="" title="Edit">
-                                                    <i class="fa fa-pencil"></i>
-                                                </a>
-                                                <a href="" title="Delete">
-                                                    <i class="fa fa-trash"></i>
-                                                </a>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            <div class="btn-group">
-                                                <a href="" title="View">
-                                                    <i class="fa fa-eye"></i>
-                                                </a>
-                                                <a href="" title="Edit">
-                                                    <i class="fa fa-pencil"></i>
-                                                </a>
-                                                <a href="" title="Delete">
-                                                    <i class="fa fa-trash"></i>
-                                                </a>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            <div class="btn-group">
-                                                <a href="" title="View">
-                                                    <i class="fa fa-eye"></i>
-                                                </a>
-                                                <a href="" title="Edit">
-                                                    <i class="fa fa-pencil"></i>
-                                                </a>
-                                                <a href="" title="Delete">
-                                                    <i class="fa fa-trash"></i>
-                                                </a>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            lorem
-                                        </td>
-                                        <td>
-                                            <div class="btn-group">
-                                                <a href="" title="View">
-                                                    <i class="fa fa-eye"></i>
-                                                </a>
-                                                <a href="" title="Edit">
-                                                    <i class="fa fa-pencil"></i>
-                                                </a>
-                                                <a href="" title="Delete">
-                                                    <i class="fa fa-trash"></i>
-                                                </a>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    <tr>
                                         <td>
                                             lorem
                                         </td>
